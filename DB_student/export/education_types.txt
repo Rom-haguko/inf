@@ -1,0 +1,4 @@
+1,Full-time
+2,Part-time
+3,Distance
+4,Evening

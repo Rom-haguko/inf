@@ -1,0 +1,10 @@
+1,Computer Science
+2,Mathematics
+3,Physics
+4,Biology
+5,Chemistry
+6,Engineering
+7,Psychology
+8,Economics
+9,History
+10,Literature
